@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Cricket Website</title>
+        <link type="text/css" rel="stylesheet" href="static/css/styles.css">
+    </head>
+
+    <body>
+        <div class = "container">
+            <div class = "header">
+                <h1>CricPro</h1>
+            </div>
+
+            <div class = "nav">
+                <a href="#players">Players</a>
+                <a href="#stats">Stats</a>
+                <a href="#all">All</a>
+            </div>
+
+            <div class="main">
+                {% block main %}
+                {% endblock %}
+            </div>
+        </div>
+    </body>
+</html>
