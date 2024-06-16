@@ -1,5 +1,32 @@
 {% extends 'base.html' %}
 {% block main %}
-                <h2>Welcome to CricPro</h2>
-                <p>Your ultimate source for cricket players, statistics, and more.</p>
+    <table>
+        <thead>
+            <tr>
+                <td>Player</td>
+                <td>Country</td>
+                <td>Matches</td>
+                <td>Innings</td>
+                <td>Not Outs</td>
+                <td>Runs</td>
+                <td>Ave</td>
+                <td>Balls Faced</td>
+                <td>Strike Rate</td>
+                <td>100</td>
+                <td>50</td>
+                <td>4s</td>
+                <td>6s</td>
+                <td>Ducks</td>
+
+            </tr>
+        </thead>
+
+        <tbody>
+
+            {% for row in data %}
+
+            {% endfor %}
+
+       </tbody>
+    </table>
 {% endblock %}
