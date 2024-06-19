@@ -9,24 +9,33 @@
                 <td>Innings</td>
                 <td>Not Outs</td>
                 <td>Runs</td>
-                <td>Ave</td>
+                <td>High Score</td>
+                <td>Average</td>
                 <td>Balls Faced</td>
-                <td>Strike Rate</td>
-                <td>100</td>
+                <td>Stike Rate</td>
                 <td>50</td>
+                <td>100</td>
                 <td>4s</td>
                 <td>6s</td>
                 <td>Ducks</td>
-
             </tr>
         </thead>
 
         <tbody>
 
             {% for row in data %}
+                <tr>
+                    <td>
+                        {{ row[0] }}
+                    </td>
+                    <td>
+                        {{ row[1] }}
+                    </td>
+
+                </tr>
 
             {% endfor %}
-
-       </tbody>
+        </tbody>
     </table>
+
 {% endblock %}
