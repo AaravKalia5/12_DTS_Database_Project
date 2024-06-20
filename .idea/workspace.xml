@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176733b2-eab6-4e5b-b929-e819c84650c6" name="Changes" comment="I have added a table to the index.html file.">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c0223b98-5fbc-44d5-9a49-b8f55847050f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c0223b98-5fbc-44d5-9a49-b8f55847050f.xml" afterDir="false" />
+    <list default="true" id="176733b2-eab6-4e5b-b929-e819c84650c6" name="Changes" comment="I have made my data desplayable on the website">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e2d344e1-e610-4046-a32a-55b2584babf4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e2d344e1-e610-4046-a32a-55b2584babf4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cricket World Cup.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtags.db" beforeDir="false" afterPath="$PROJECT_DIR$/webtags.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +112,8 @@
       <workItem from="1718326966041" duration="1511000" />
       <workItem from="1718571130555" duration="3736000" />
       <workItem from="1718761064946" duration="292000" />
-      <workItem from="1718835846771" duration="2611000" />
+      <workItem from="1718835846771" duration="2707000" />
+      <workItem from="1718866354657" duration="5549000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
@@ -135,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718574988315</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I have made my data desplayable on the website">
+      <option name="closed" value="true" />
+      <created>1718838563857</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718838563857</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,9 +157,10 @@
     <MESSAGE value="hi" />
     <MESSAGE value="I added my data to a database and I have compleated the index.html and css for the home page." />
     <MESSAGE value="I have added a table to the index.html file." />
-    <option name="LAST_COMMIT_MESSAGE" value="I have added a table to the index.html file." />
+    <MESSAGE value="I have made my data desplayable on the website" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have made my data desplayable on the website" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Aarav_Kalia_12_DTS_Project$Aarav_Kalia_12_DTS_Project.coverage" NAME="Aarav_Kalia_12_DTS_Project Coverage Results" MODIFIED="1718838395189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Aarav_Kalia_12_DTS_Project$Aarav_Kalia_12_DTS_Project.coverage" NAME="Aarav_Kalia_12_DTS_Project Coverage Results" MODIFIED="1718874544138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

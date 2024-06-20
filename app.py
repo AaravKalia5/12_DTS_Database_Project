@@ -22,7 +22,7 @@ def create_connection(db_filename):
 @app.route('/')
 def home_page():
 
-    query = "SELECT id, Player FROM web_tags"
+    query = "SELECT Player, Country, Matches, Innings, Not_Outs, Runs, Ave, Balls_Faced, Strike_Rate, Hundreds, Fiftys, Fours, Sixes, Ducks FROM web_tags"
 
 
 

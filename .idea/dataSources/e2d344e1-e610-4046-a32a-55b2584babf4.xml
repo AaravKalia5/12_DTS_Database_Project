@@ -499,7 +499,7 @@
     <routine id="190" parent="1" name="fts5"/>
     <schema id="191" parent="1" name="main">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2024-06-14.01:24:41</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-06-20.07:34:36</LastIntrospectionLocalTimestamp>
     </schema>
     <argument id="192" parent="16">
       <ArgumentDirection>R</ArgumentDirection>
@@ -1639,7 +1639,7 @@
       <NotNull>1</NotNull>
       <Position>5</Position>
     </column>
-    <column id="567" parent="556" name="Not Outs">
+    <column id="567" parent="556" name="Not_Outs">
       <DasType>integer|0s</DasType>
       <NotNull>1</NotNull>
       <Position>6</Position>
@@ -1654,32 +1654,32 @@
       <NotNull>1</NotNull>
       <Position>8</Position>
     </column>
-    <column id="570" parent="556" name="Balls Faced">
+    <column id="570" parent="556" name="Balls_Faced">
       <DasType>integer|0s</DasType>
       <NotNull>1</NotNull>
       <Position>9</Position>
     </column>
-    <column id="571" parent="556" name="Strike Rate">
+    <column id="571" parent="556" name="Strike_Rate">
       <DasType>float|0s</DasType>
       <NotNull>1</NotNull>
       <Position>10</Position>
     </column>
-    <column id="572" parent="556" name="100">
+    <column id="572" parent="556" name="Hundreds">
       <DasType>integer|0s</DasType>
       <NotNull>1</NotNull>
       <Position>11</Position>
     </column>
-    <column id="573" parent="556" name="50">
+    <column id="573" parent="556" name="Fiftys">
       <DasType>integer|0s</DasType>
       <NotNull>1</NotNull>
       <Position>12</Position>
     </column>
-    <column id="574" parent="556" name="4s">
+    <column id="574" parent="556" name="Fours">
       <DasType>integer|0s</DasType>
       <NotNull>1</NotNull>
       <Position>13</Position>
     </column>
-    <column id="575" parent="556" name="6s">
+    <column id="575" parent="556" name="Sixes">
       <DasType>integer|0s</DasType>
       <NotNull>1</NotNull>
       <Position>14</Position>
